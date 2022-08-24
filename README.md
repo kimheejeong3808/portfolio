@@ -4,11 +4,13 @@
 # :pushpin: Intro
 - 김희정 자기소개
 
+<br/>
 
 # :email: Contact
 - 이메일 : khjhj3808@gmail.com
 - 깃허브 : https://github.com/kimheejeong3808
 
+<br/>
 
 # :beginner: Projects
 ## 1. [Gomunity](https://github.com/kimheejeong3808/gomunity)
@@ -32,7 +34,7 @@
 >[프로젝트 상세 설명 GitHub Back-End](https://github.com/kimheejeong3808/gomunity) 참고<br/>
 >[프로젝트 상세 설명 GitHub Front-End](https://github.com/kimheejeong3808/gomunity_fe) 참고
 
----
+<br/>
 
 ## 2. [유전](https://github.com/kimheejeong3808/yujeon_be)
 > ### 유화 이미지를 활용한 SNS 아틀리에 서비스<br/>
@@ -51,7 +53,7 @@
 >[프로젝트 상세 설명 GitHub Back-End](https://github.com/kimheejeong3808/yujeon_be) 참고<br/>
 >[프로젝트 상세 설명 GitHub Front-End](https://github.com/kimheejeong3808/yujeon_fe) 참고
 
----
+<br/>
 
 ## 3. [혼자서도 잘해요리](https://github.com/kimheejeong3808/cook_alone)
 > ### 만개의 레시피 크롤링 활용한 1인레시피 추천서비스<br/>
@@ -67,7 +69,7 @@
 >
 >[프로젝트 상세 설명](https://github.com/kimheejeong3808/cook_alone) 참고
 
----
+<br/>
 
 ## 4. [AI Chameleon](https://github.com/kimheejeong3808/ai_chameleon)
 > ### 이미지 세그멘테이션으로 색상팔레트 GIF변환 서비스<br/>
@@ -84,7 +86,7 @@
 >
 >[프로젝트 상세 설명](https://github.com/kimheejeong3808/ai_chameleon) 참고
 
----
+<br/>
 
 ## 5. [59stargram](https://github.com/kimheejeong3808/59stargram)
 > ### 인스타그램 팀 클론 코딩<br>
@@ -98,3 +100,5 @@
 >![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=social&logo=MongoDB)<br/>
 >
 >[프로젝트 상세 설명](https://github.com/kimheejeong3808/59stargram) 참고
+
+<br/>
